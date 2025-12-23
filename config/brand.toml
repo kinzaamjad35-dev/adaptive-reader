@@ -1,0 +1,16 @@
+# Branding and product settings. Change these to white-label the app for a school or company.
+app_name = "Adaptive Reader"
+tagline = "Reading made easier, one word at a time."
+icon = "📖"
+author = "Kinza Amjad"
+support_email = ""
+default_theme = "Cream (BDA)"
+default_font = "Lexend"
+show_llm_settings = true
+
+[features]
+library = true
+homework = true
+writing = true
+readalong = true
+badges = true

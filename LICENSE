@@ -1,0 +1,10 @@
+Copyright (c) 2026 Kinza Amjad. All rights reserved.
+
+This source code is published for portfolio and evaluation purposes. You may view it and run it
+for personal, non-commercial use. Copying, modifying, redistributing, or using it in a commercial
+product or service (including sale or licensing to schools or companies) requires written
+permission from the author.
+
+Practice passages in core/library.py are original texts by the author.
+Third-party libraries and fonts are used under their own licences (see requirements.txt;
+Lexend and Atkinson Hyperlegible: SIL Open Font License; OpenDyslexic: SIL Open Font License).
